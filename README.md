@@ -84,3 +84,12 @@ Share daily progress with friends.
 This project is ideal for demonstrating the integration of hardware sensors, real-time data processing, and UI data visualization in Android. It provides practical use for health-conscious users and is highly relevant in today's fitness-aware world.
 
 # OUTPUT OF TASK
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96d3bec1-ee29-4812-ab1b-57e8aa68af1d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a5a08036-8586-4f49-9475-281f61302d89" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/806bd12e-8aaa-4cc6-84c4-6ed1d4fb1b01" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f474fd92-5bd5-436b-b358-f12dc0a113ca" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9af11047-93ee-4ee2-8f1f-499d2c300159" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6aeb9aac-c13c-4b4b-b81b-855766ae85fd" />
+<img width="649" height="802" alt="Image" src="https://github.com/user-attachments/assets/23afb4c3-391f-4e3c-82af-fb3498fc004e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f96f67ac-cb22-4758-acb2-fd18568a7e6f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b0341b43-e455-45f3-9f1d-3990eaed8db0" />
